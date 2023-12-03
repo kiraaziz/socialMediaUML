@@ -38,4 +38,5 @@ The sequence diagram illustrates the flow of events during the "Update User Prof
 This documentation provides an overview of the "Update User Profile" functionality, including the components involved and the step-by-step process. Developers can refer to this documentation for understanding the integration and implementation details of this feature.
 
 
+
 <!--- Eraser file: https://app.eraser.io/workspace/8dUnVp48U2nFfwLNfxyQ --->
