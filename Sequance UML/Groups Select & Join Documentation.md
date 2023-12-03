@@ -3,8 +3,6 @@
 ## Overview
 This documentation outlines the sequence of actions involved in the "Groups Select & Join" feature of the React application using Firebase services. The primary functionalities include selecting a group, fetching group information, checking user membership status, and allowing users to join groups.
 
-
-
 ## Description
 1. **Select Group:**
     - The user interacts with the React application to select a group.
